@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd705293-d00f-4e89-9909-c6b0bd9cad34" name="Changes" comment="init commit">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwingEmail/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwingEmail/MimeMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwingEmail/Session.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,16 +36,18 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "onboarding.tips.debug.path": "C:/Users/User/IdeaProjects/Desktop/JavaPractica/src/Main.java",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="SwingEmail" />
       <recent name="com.javapractical.emailsender" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Functions.AirthmeticOperations">
+  <component name="RunManager" selected="Application.Email">
     <configuration name="AirthmeticOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javapractical.AirthmeticOperations" />
       <module name="JavaPractica" />
@@ -68,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Functions.AirthmeticOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Functions.AirthmeticOperations" />
+    <configuration name="Email" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwingEmail.Email" />
       <module name="JavaPractica" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Functions.*" />
+          <option name="PATTERN" value="SwingEmail.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javapractical.Palindrome" />
+    <configuration name="Functions.AirthmeticOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Functions.AirthmeticOperations" />
       <module name="JavaPractica" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javapractical.*" />
+          <option name="PATTERN" value="Functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Email" />
         <item itemvalue="Application.Functions.AirthmeticOperations" />
         <item itemvalue="Application.CRUD" />
         <item itemvalue="Application.PayrollSystem" />
         <item itemvalue="Application.AirthmeticOperations" />
-        <item itemvalue="Application.Palindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +167,21 @@
       <option name="project" value="LOCAL" />
       <updated>1756575665584</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="init commit">
+      <created>1756575839949</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1756575839949</updated>
+    </task>
+    <task id="LOCAL-00007" summary="init commit">
+      <created>1756576403650</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1756576403657</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
