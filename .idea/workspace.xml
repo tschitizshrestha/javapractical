@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd705293-d00f-4e89-9909-c6b0bd9cad34" name="Changes" comment="init commit" />
+    <list default="true" id="fd705293-d00f-4e89-9909-c6b0bd9cad34" name="Changes" comment="init commit">
+      <change afterPath="$PROJECT_DIR$/src/EmployeeCRUD/CRUD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Socket/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Socket/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -182,7 +187,21 @@
       <option name="project" value="LOCAL" />
       <updated>1756580228925</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="init commit">
+      <created>1756580389596</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1756580389598</updated>
+    </task>
+    <task id="LOCAL-00010" summary="init commit">
+      <created>1756580499904</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1756580499904</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
