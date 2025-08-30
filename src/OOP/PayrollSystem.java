@@ -1,4 +1,4 @@
-package com.javapractical.employee;
+package OOP;
 
 public class PayrollSystem {
     public static void main(String[] args) {

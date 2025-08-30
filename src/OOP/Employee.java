@@ -1,4 +1,4 @@
-package com.javapractical.employee;
+package OOP;
 
 public class Employee {
     int id;
