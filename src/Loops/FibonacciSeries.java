@@ -1,8 +1,8 @@
-package com.javapractical;
+package Loops;
 
 import java.util.Scanner;
 
-public class Fibonacciseries {
+public class FibonacciSeries {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter any number: ");

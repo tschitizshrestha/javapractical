@@ -1,8 +1,8 @@
-package com.javapractical;
+package conditional;
 
 import java.util.Scanner;
 
-public class Evenodd {
+public class EvenOrOdd {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter any number: ");
@@ -13,5 +13,4 @@ public class Evenodd {
         else
             System.out.println(num + " is Odd.");
     }
-
 }

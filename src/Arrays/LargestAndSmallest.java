@@ -1,8 +1,8 @@
-package com.javapractical;
+package Arrays;
 
 import java.util.Scanner;
 
-public class LargestandSmallest {
+public class LargestAndSmallest {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter number of elements: ");

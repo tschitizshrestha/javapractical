@@ -1,4 +1,4 @@
-package com.javapractical;
+package Functions;
 
 import java.util.Scanner;
 
