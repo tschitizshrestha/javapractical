@@ -5,26 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd705293-d00f-4e89-9909-c6b0bd9cad34" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Frequency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/LargestAndSmallest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Functions/AirthmeticOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Functions/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Functions/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/FibonacciSeries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/MultiplicationTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javapractical/employee/CRUD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conditional/EvenOrOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conditional/Largest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javapractical/AirthmeticOperations.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javapractical/Evenodd.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javapractical/Factorial.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javapractical/Fibonacciseries.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javapractical/Frequency.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javapractical/LargestandSmallest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javapractical/Largestnumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javapractical/Multiplicationtable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javapractical/Palindrome.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1756570530064</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="init commit">
+      <created>1756575665584</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1756575665584</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
